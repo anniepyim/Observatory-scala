@@ -1,16 +1,16 @@
 [0m[[0minfo[0m] [0mFast optimizing /Users/ayim/IdeaProjects/observatory/capstone-ui/target/scala-2.11/capstoneui-fastopt.js[0m
-[0m[[0mdebug[0m] [0mLinker: Compute reachability: 55972 us[0m
-[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 32005 us[0m
-[0m[[0mdebug[0m] [0mBasic Linking: 90890 us[0m
-[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
-[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 25231 us[0m
-[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 1 methods.[0m
-[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 4306 us[0m
-[0m[[0mdebug[0m] [0mInc. optimizer: 35935 us[0m
-[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 49860 us[0m
-[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 6859 us[0m
-[0m[[0mdebug[0m] [0mRefiner: 56959 us[0m
-[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 11 -- invalidated: 332[0m
-[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 1418 -- invalidated: 1[0m
-[0m[[0mdebug[0m] [0mEmitter (write output): 136877 us[0m
-[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 45 -- invalidated: 6 -- trees read: 6[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 382142 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 1076027 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 1516790 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 530874 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 2954 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 1468894 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 2062601 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 71415 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 17741 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 91564 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 343[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 1419[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 719246 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 0 -- invalidated: 51 -- trees read: 495[0m

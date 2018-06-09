@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7125312-b163-4924-8726-77a033fb6006" name="Default" comment="" />
+    <list default="true" id="d7125312-b163-4924-8726-77a033fb6006" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone-ui/target/scala-2.11/capstoneui-fastopt.js" beforeDir="false" afterPath="$PROJECT_DIR$/capstone-ui/target/scala-2.11/capstoneui-fastopt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone-ui/target/scala-2.11/capstoneui-fastopt.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/capstone-ui/target/scala-2.11/capstoneui-fastopt.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone-ui/target/scala-2.11/classes/observatory/Interaction2$.class" beforeDir="false" afterPath="$PROJECT_DIR$/capstone-ui/target/scala-2.11/classes/observatory/Interaction2$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone-ui/target/scala-2.11/classes/observatory/Interaction2$.sjsir" beforeDir="false" afterPath="$PROJECT_DIR$/capstone-ui/target/scala-2.11/classes/observatory/Interaction2$.sjsir" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone-ui/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/capstone-ui/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone-ui/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/capstone-ui/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone-ui/target/streams/compile/fastOptJS/$global/streams/in-cache" beforeDir="false" afterPath="$PROJECT_DIR$/capstone-ui/target/streams/compile/fastOptJS/$global/streams/in-cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone-ui/target/streams/compile/fastOptJS/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/capstone-ui/target/streams/compile/fastOptJS/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capstone-ui/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/capstone-ui/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interaction2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59cab4e12fdf8092f0c4$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59cab4e12fdf8092f0c4$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59cab4e12fdf8092f0c4$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59cab4e12fdf8092f0c4$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59cab4e12fdf8092f0c4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59cab4e12fdf8092f0c4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$59cab4e12fdf8092f0c4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/observatory/Extraction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/observatory/Extraction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/observatory/Interaction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/observatory/Interaction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/observatory/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/observatory/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/temperatures/2014/0/0-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/temperatures/2015/0/0-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/temperatures/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.png" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -22,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="212">
+              <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
               <folding>
                 <element signature="e#21#40#0" expanded="true" />
               </folding>
@@ -43,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Interaction.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Interaction.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Interaction.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
-              <caret line="113" column="3" selection-start-line="113" selection-start-column="3" selection-end-line="113" selection-end-column="3" />
+            <state relative-caret-position="236">
+              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding>
                 <element signature="e#21#64#0" expanded="true" />
               </folding>
@@ -58,11 +88,8 @@
       <file leaf-file-name="Extraction.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Extraction.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-              <folding>
-                <element signature="e#21#47#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -70,8 +97,8 @@
       <file leaf-file-name="Interaction2.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Interaction2.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+            <state relative-caret-position="788">
+              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -127,7 +154,11 @@
       <find>60</find>
       <find>120</find>
       <find>360</find>
+      <find>interaction</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -141,20 +172,21 @@
         <option value="$PROJECT_DIR$/src/main/scala/observatory/Manipulation.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/observatory/Visualization2.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/observatory/Visualization.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/observatory/Extraction.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/observatory/Interaction.scala" />
         <option value="$PROJECT_DIR$/capstone-ui/src/main/scala/observatory/JSMain.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/observatory/Interaction2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/observatory/Extraction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/observatory/Main.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/observatory/Interaction.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="23" />
-    <option name="width" value="1211" />
-    <option name="height" value="649" />
+    <option name="x" value="-1369" />
+    <option name="y" value="-498" />
+    <option name="width" value="1330" />
+    <option name="height" value="849" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -452,24 +484,24 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="23" width="1211" height="649" extended-state="0" />
+    <frame x="-1369" y="-498" width="1330" height="849" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3269565" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3258427" />
       <window_info anchor="right" id="sbt" order="9" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32173914" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22978723" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35741934" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22956522" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24112304" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21954887" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3291714" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -534,9 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding>
-            <element signature="e#21#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -595,9 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-          <folding>
-            <element signature="e#21#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,9 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#21#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -707,9 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="e#21#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,16 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Interaction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="113" column="3" selection-start-line="113" selection-start-column="3" selection-end-line="113" selection-end-column="3" />
-          <folding>
-            <element signature="e#21#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Visualization2.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-773">
@@ -835,23 +845,6 @@
           <folding>
             <element signature="e#21#64#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Extraction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding>
-            <element signature="e#21#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Interaction2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -865,12 +858,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Interaction2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Extraction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="212">
+          <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
           <folding>
             <element signature="e#21#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/observatory/Interaction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#21#64#0" expanded="true" />
           </folding>
         </state>
       </provider>

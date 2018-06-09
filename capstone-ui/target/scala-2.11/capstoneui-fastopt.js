@@ -2178,7 +2178,7 @@ $c_Lobservatory_Interaction2$.prototype.yearSelection__Lobservatory_Signal__Lobs
 });
 $c_Lobservatory_Interaction2$.prototype.availableLayers__sc_Seq = (function() {
   $m_sci_List$();
-  var xs = new $c_sjs_js_WrappedArray().init___sjs_js_Array([new $c_Lobservatory_Layer().init___Lobservatory_LayerName__sc_Seq__sci_Range($m_Lobservatory_LayerName$Temperatures$(), this.tempToCol$1, ($m_s_package$(), new $c_sci_Range().init___I__I__I(1990, 2016, 1)))]);
+  var xs = new $c_sjs_js_WrappedArray().init___sjs_js_Array([new $c_Lobservatory_Layer().init___Lobservatory_LayerName__sc_Seq__sci_Range($m_Lobservatory_LayerName$Temperatures$(), this.tempToCol$1, ($m_s_package$(), new $c_sci_Range().init___I__I__I(1995, 2016, 1)))]);
   var this$3 = $m_sci_List$();
   var cbf = this$3.ReusableCBFInstance$2;
   return $as_sci_List($s_sc_TraversableLike$class__to__sc_TraversableLike__scg_CanBuildFrom__O(xs, cbf))

@@ -30,6 +30,7 @@ object Extraction {
     val stationsRaw = spark.sparkContext.textFile(Paths.get(getClass.getResource(stationsFile).toURI).toString)
     val temperaturesRaw = spark.sparkContext.textFile(Paths.get(getClass.getResource(temperaturesFile).toURI).toString)
 
+    println(year)
     locateTemperaturesSpark(year, stationsRaw, temperaturesRaw).collect().toSeq
   }
 
@@ -68,13 +69,11 @@ object Extraction {
   }
 
   def locationYearlyAverageRecordsSpark(records: RDD[(LocalDate, Location, Temperature)]): RDD[(Location, Temperature)] = {
-
     records
       .groupBy(_._2)
       .mapValues(entries => entries.map(entry => (entry._3, 1)))
       .mapValues(_.reduce((v1, v2) => (v1._1 + v2._1, v1._2 + v2._2)))
       .mapValues({case (temp, cnt) => temp / cnt})
-
   }
 
   def fahrenheitToCelsius(fahrenheit: Temperature): Temperature =

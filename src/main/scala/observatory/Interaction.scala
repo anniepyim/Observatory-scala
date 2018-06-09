@@ -106,7 +106,7 @@ object Interaction {
                            generateImage: (Year, Tile, Data, Data) => Unit
                          ): Unit = {
     val tiles = for {
-      zoom <- 1 until 4
+      zoom <- 0 until 1
       x <- 0 until pow(2, zoom).toInt
       y <- 0 until pow(2, zoom).toInt
       yearData <- yearlyData
